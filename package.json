@@ -1,0 +1,9 @@
+{
+  "name": "fuga-orelha-multiplayer",
+  "version": "2.0.0-beta.1",
+  "private": true,
+  "description": "Fuga do Cachorro Orelha — multiplayer cooperativo online para 2 jogadores (beta)",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
